@@ -35,7 +35,7 @@ def zip_folders_to_epub(source_dir):
             print(f"Created {epub_name}")
 
 # Specify the source directory
-source_directory = r"C:\path\to\your\folder"  # Replace with your actual path
+source_directory = r"D:\\tmp\\"  # Replace with your actual path
 
 # Run the function
 zip_folders_to_epub(source_directory)

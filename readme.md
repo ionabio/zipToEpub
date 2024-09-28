@@ -1,0 +1,1 @@
+A simple tool to fix the folders one might get from transferring ibooks epub books, that will be stored as folders.
